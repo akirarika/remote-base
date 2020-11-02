@@ -1,6 +1,6 @@
 # remote-base
 
-适用于远程场景的 docker 基础镜像
+适用于远程开发的基础镜像
 
 ## Files
 
